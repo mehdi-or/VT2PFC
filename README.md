@@ -1,2 +1,2 @@
 # VT2PFC
-This repository is from the VT2PFC project
+This repository is for VT2PFC project
